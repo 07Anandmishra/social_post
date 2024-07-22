@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "author": "Theresa Webb",
+      "avatar": "img/men",
+      "content": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+      "timestamp": "5mins ago",
+      "comments": 24,
+      "emoji": "👋"
+    },
+    {
+      "id": "2",
+      "author": "Marvin McKinney",
+      "avatar": "img/men2.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "timestamp": "8mins ago • Edited",
+      "emoji": "👋",
+      "comments": 12
+    },
+    {
+      "id": "3a17",
+      "author": "user1",
+      "avatar": "img/images.png",
+      "content": "new comment",
+      "timestamp": "Just now",
+      "emoji": "👋",
+      "comments": 0
+    },
+    {
+      "id": "850d",
+      "author": "user1",
+      "avatar": "img/images.png",
+      "content": "hello rajat",
+      "timestamp": "Just now",
+      "comments": 0
+    },
+    {
+      "id": "d317",
+      "author": "anand",
+      "avatar": "img/images.png",
+      "content": "hello ram",
+      "timestamp": "Just now",
+      "comments": 0
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "username": "user1",
+      "password": "password123"
+    },
+    {
+      "id": "9391",
+      "email": "anand@gmail.com",
+      "username": "anand",
+      "password": "anand123"
+    }
+  ]
+}
